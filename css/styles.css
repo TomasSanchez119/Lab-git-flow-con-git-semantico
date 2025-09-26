@@ -11,3 +11,12 @@ header {
     text-align: center;
     padding: 10px 0;
 }
+
+.header {
+    height: 100vh;
+    background-color: gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
