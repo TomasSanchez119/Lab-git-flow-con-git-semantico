@@ -47,3 +47,7 @@ header {
     border-radius: 5px;
     cursor: pointer;
 }
+
+#contact-form button:hover{
+    background-color: #27C2F5;
+}
